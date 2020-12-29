@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:519D4D69
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:3 "C:\cvavr\inc\delay.h"
+NODE:V LEVEL:0 LINE:5 "CTemporary -> R4,R5"
+NODE:V LEVEL:0 LINE:6 "T0Overflow -> R6,R7"
+NODE:V LEVEL:0 LINE:7 "T1Overflow -> R8,R9"
+NODE:V LEVEL:0 LINE:8 "number7seg -> RAM:????"
+NODE:V LEVEL:0 LINE:9 "iterator -> R10,R11"
+NODE:V LEVEL:0 LINE:10 "lastNumSS -> R12,R13"
+NODE:V LEVEL:0 LINE:11 "numbers -> RAM:????"
+NODE:F LEVEL:0 LINE:25 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:54 "timer1_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:78 "main(void)"

@@ -1,0 +1,2 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"part1_counter.c" LINE:39
+timer1_ovf_isr DSTACK_USAGE:5 DSTACK_LEVEL:5 FILE:"part1_counter.c" LINE:19

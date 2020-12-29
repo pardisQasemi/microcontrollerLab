@@ -1,0 +1,8 @@
+VERSION:3 SOURCE_TIMESTAMP:519D4D20
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\mega16.h"
+NODE:V LEVEL:0 LINE:4 "counterOverflow -> R4,R5"
+NODE:V LEVEL:0 LINE:5 "counter -> R6,R7"
+NODE:V LEVEL:0 LINE:6 "numbers -> RAM:????"
+NODE:F LEVEL:0 LINE:19 "timer1_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:39 "main(void)"

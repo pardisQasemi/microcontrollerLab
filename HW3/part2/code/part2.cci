@@ -1,0 +1,10 @@
+VERSION:3 SOURCE_TIMESTAMP:522B5DA9
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\alcd.h"
+NODE:V LEVEL:0 LINE:4 "xLenght -> R4,R5"
+NODE:V LEVEL:0 LINE:5 "yLenght -> R6,R7"
+NODE:V LEVEL:0 LINE:6 "timerOverflowCounter -> R8,R9"
+NODE:V LEVEL:0 LINE:7 "characterPosition -> R10,R11"
+NODE:V LEVEL:0 LINE:8 "characters -> RAM:????"
+NODE:F LEVEL:0 LINE:11 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:43 "main(void)"

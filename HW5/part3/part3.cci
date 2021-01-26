@@ -1,0 +1,8 @@
+VERSION:3 SOURCE_TIMESTAMP:523993CD
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\mega16.h"
+NODE:V LEVEL:0 LINE:3 "delay -> R4,R5"
+NODE:V LEVEL:0 LINE:4 "direction -> R6,R7"
+NODE:V LEVEL:0 LINE:5 "states -> RAM:????"
+NODE:V LEVEL:0 LINE:6 "currentState -> R8,R9"
+NODE:F LEVEL:0 LINE:9 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:42 "main(void)"
